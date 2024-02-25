@@ -1,4 +1,6 @@
-![Demo](demo.png)
+<p align="center">
+  <img src="demo.png" alt="Demo">
+</p>
 
 
 # Simple Counter App for AND102 | Intermediate Android Development | CodePath Unit 1 Lab
