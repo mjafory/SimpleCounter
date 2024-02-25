@@ -1,4 +1,4 @@
-![Screenshot](demo.png)
+![Demo](demo.png)
 
 
 # Simple Counter App for AND102 | Intermediate Android Development | CodePath Unit 1 Lab
